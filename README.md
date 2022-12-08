@@ -1,1 +1,162 @@
-# starbucks
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starbucks Coffee Company</title>
+    <link rel="icon" href="starbucks.png">
+    <link rel="shortcut icon" href="https://www.starbucks.com/">
+    <link rel="stylesheet" href="starbucks.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <!--navigation start-->
+
+    <nav>
+        <div class="container">
+            <div class="nav-left">
+<img src="starbucks.png">
+<ul>
+    <li>MENU</li>
+    <li>REWARDS</li>
+    <li>GIFT CARDS</li>
+</ul>
+            </div>
+            <div class="nav-right">
+<div class="location">
+    <img src="asset 1.svg">
+    <span>Find a store</span>
+</div>
+<button class="btn btn-primary">Sign in</button>
+<button class="btn btn-secondary">Join now</button>
+            </div>
+        </div>
+    </nav>
+    <!--navigation end-->
+    <div class="box mt-0">
+        <div class="container">
+          <div class="box-img">
+            <img src="star.jpg">
+        </div>
+            <div class="box-text">
+                <h1 class="lg">Make your<br> Rewards merrier</h1>
+                <p class="p-lg">
+                    Starbucks Rewards + Delta SkyMiles have <br>come together! Link your accounts to get 1<br> mile per $1* spent at Starbucks.
+                </p>
+                <button class="btn btn-primary btn-white">Link now</button>
+            </div>
+            
+        </div>
+        <div class="box box-secondary">
+          <div class="container">
+          <div class="box-text">
+            <h1 class="lg2">Fa la la favorite</h1>
+            <p class="p-lg2">
+              Cheers to the Toasted White Chocolate<br>Mocha with caramelized flavors and<br>merry toppings.
+            </p>
+            <button class="btn btn-primary btn-white">Order now</button>
+          
+        </div>
+        <div class="box-img">
+        <img src="137-82251.jpg" width="550">
+        </div>
+    </div>
+        </div>
+    <div class="box">
+        <div class="container">
+          <div class="box-img">
+            <img src="img3.jpg">
+        </div>
+            <div class="box-text">
+                <h1>Holy-yay<br>treat</h1>
+                <p>
+                     Cuteness alert. Our Reindeer Cake Pop,<br>coated in chocolaty icing, is sure to spark<br>joy.
+
+                </p>
+                <button class="btn btn-primary btn-white">Order now</button>
+            </div>
+            
+        </div>
+    </div>
+    <div class="box2">
+        <div class="container">
+          <div class="box-text-color">
+            <h1>Starbucks<br> supports(RED)</h1>
+            <p class="p-lg">
+            World AIDS Day s December1.Since 2008,we have contributed $16M in donations to help fight AIDS with(RED)
+            </p>
+            <button class="btn btn-primary btn-white">Learn more</button>
+        </div>
+        <div class="box-img">
+            <img src="last.jpg">
+        </div>
+    </div>
+</div>
+
+
+
+<div class="second">
+    <p>*At participating stores. Some restrictions apply. See starbucks.com/rewards.</p>
+</div>
+<section class="footer">
+<div class="third">
+    <div>
+        <h5>About Us</h5>
+        <p>Our Company</p>
+        <p>Our Cofee</p>
+        <p>Stories and News</p>
+        <p>Starbucks Archive</p>
+        <p>Invester Relations</p>
+        <p>Customer Service</p>
+    </div>
+    <div>
+        <h5>Careers</h5>
+        <p>Culture and Values</p>
+        <p>Inclusion,Devilery,and Equity</p>
+        <p>College Achievement Plan</p>
+        <p>Alumini Community</p>
+        <p>U.S Careers</p>
+        <p>International Careers</p>
+    </div>
+    <div>
+        <h5>Social Impact</h5>
+        <p>people</p>
+        <p>Planet</p>
+        <p>Environmental and Socail Impact Reporting</p>
+        
+    </div>
+    <div>
+        <h5>For Business Parters</h5>
+        <p>Landlord Support Center</p>
+        <p>Suppliers</p>
+        <p>Coporate Gift Card Sales</p>
+        <p>Office and Foodservice Coffee</p>
+        
+    </div>
+    <div>
+        <h5>Order and Pickup</h5>
+        <p>Order on the App</p>
+        <p>Order On the web</p>
+        <p>Delivery</p>
+        <p>Order and Pickup Option</p>
+        <p>Exlpore and Find Cofee For Home</p>
+        
+    </div>
+
+</div>
+    <div class="fourth">
+        <hr>
+        <i class="fa-brands fa-twitter"></i>
+        <i class="fa-brands fa-instagram"></i>
+        <i class="fa-brands fa-whatsapp"></i>
+        <i class="fa-brands fa-facebook"></i>
+        <i class="fa-brands fa-pinterest"></i>
+        <i class="fa-brands fa-spotify"></i>
+        <i class="fa-brands fa-youtube"></i>
+        <p>© 2022 Starbucks Coffee Company. All rights reserved.</p>
+    </div>
+</section>
+</body>
+</html>
